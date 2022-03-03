@@ -1,2 +1,2 @@
 #!/bin/bash\nls
-chmod u+x 1-listit
+chmod u+x 0x00-shell_basics
