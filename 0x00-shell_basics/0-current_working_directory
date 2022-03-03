@@ -1,2 +1,2 @@
-#!/bin/bash\npwd
-chmod u+x 0x00-shell_basics
+#!/bin/bash
+pwd
